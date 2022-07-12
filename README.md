@@ -1,6 +1,6 @@
 ## Hi, I'm Tyler 👋
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=TylerLeonhardt.TylerLeonhardt)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=JessMTermini.JessMTermini)
 
 ### I work on the [Visual Studio Code](https://github.com/Microsoft/vscode) team at Microsoft.
 
